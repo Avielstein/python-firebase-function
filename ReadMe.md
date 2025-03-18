@@ -94,7 +94,7 @@ https://us-central1-YOUR_PROJECT_ID.cloudfunctions.net/get_server_time
 
 Once you've deployed it you have to go to google cloud and set the security rules to allow unauthorized hits if you want to test it without auth
 
-https://console.cloud.google.com/run?project=<project-name>
+https://console.cloud.google.com/run
 
 You can test the function by visiting the provided URL in your browser.
 
